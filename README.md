@@ -1,1 +1,1 @@
-#Tek Bağlı Liste C++
+# Çift Bağlı Liste C++
